@@ -1,6 +1,6 @@
 {
   "name": "stylus-mixins",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Stylus mixins for happy development",
   "main": "index.styl",
   "scripts": {
@@ -34,7 +34,7 @@
   "author": "Gleb Mikheev <mikheev@betaagency.ru> (http://betaagency.ru)",
   "license": "MIT",
   "dependencies": {
-    "stylus": "0.54.2"
+    "stylus": "^0.54.8"
   },
   "versionify": "1.0.12"
 }
